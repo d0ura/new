@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/d0ura</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>صفحتي في (github)</name>
+			<url>https://d0ura.github.io/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
